@@ -20,6 +20,13 @@ class User extends Authenticatable
         'name',
         'email',
         'password',
+        'phone',
+        'role',
+        // 'position',
+        // 'department',
+        // 'face_embedding',
+        // 'image_url',
+        // 'fcm_token'
     ];
 
     /**
