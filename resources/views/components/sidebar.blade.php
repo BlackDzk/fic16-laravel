@@ -1,7 +1,7 @@
 <div class="main-sidebar sidebar-style-2">
     <aside id="sidebar-wrapper">
         <div class="sidebar-brand">
-            <a href="index.html">DZAKI HR</a>
+            <a href="index.html">BAHRI HR</a>
         </div>
         <div class="sidebar-brand sidebar-brand-sm">
             <a href="index.html">St</a>
@@ -18,7 +18,7 @@
                     <span>Users</span></a>
             </li>
 
-            {{-- <li class="nav-item">
+            <li class="nav-item">
                 <a href="{{ route('companies.show', 1) }}" class="nav-link">
                     <i class="fas fa-columns"></i>
                     <span>Company</span>
@@ -36,7 +36,7 @@
                     <i class="fas fa-columns"></i>
                     <span>Permission</span>
                 </a>
-            </li> --}}
+            </li>
 
     </aside>
 </div>
